@@ -5,5 +5,4 @@ Users can register and log in, browse books by category, check available copies,
 
 This system ensures a user-friendly interface, smooth navigation, and a secure login/signup process, making it ideal for small to medium-sized libraries, colleges, or personal collections.
 
-#Image 
-<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/423064da-2a5b-457b-93ba-c57c5eccdca3" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/423064da-2a5b-457b-93ba-c57c5eccdca3" />
