@@ -1,7 +1,7 @@
 # 1. Library Managment System
 The Library Management System is a web-based application built with Django, HTML, and CSS to simplify the management of books in a library. It provides features for library members (users) to efficiently manage book records, issue/return books, and track late fees.
 
-Language Used : HTML , CSS , Django 
+Language Used : HTML , CSS , Django <br/> 
 DataBase : SQLite
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/423064da-2a5b-457b-93ba-c57c5eccdca3" />
@@ -34,6 +34,5 @@ Language Used : HTML , CSS , Bootstrap , JavaScript
 
 
 # 4. StoreBilling System
-The Store Billing System is a Java-based application designed to handle billing operations for a store.
-
+The Store Billing System is a Java-based application designed to handle billing operations for a store.<bt/>
 Language Used : Java
