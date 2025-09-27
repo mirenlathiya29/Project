@@ -12,3 +12,11 @@ This system ensures a user-friendly interface, smooth navigation, and a secure l
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b9f968a4-0960-4b11-b704-d70daa239e07" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/93cf83d9-897e-41f2-9a99-f267405247b4" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8c6520d9-6428-4aea-b7f6-4cc310b46068" />
+
+
+# 2. Shoes Store
+Use Language : HTML , CSS , Bootstrap , JavaScript
+<img width="1890" height="897" alt="login-page" src="https://github.com/user-attachments/assets/275c1c16-c487-4fb8-9db4-8bfeadb59ec1" />
+<img width="700" height="700" alt="main1-page" src="https://github.com/user-attachments/assets/add866b8-ea20-4e67-b382-3fe5f780e217" />
+<img width="700" height="700" alt="main2-page" src="https://github.com/user-attachments/assets/0a20d6e1-d41d-4bf3-930e-f0d4b93de55c" />
+<img width="700" height="700" alt="product-page" src="https://github.com/user-attachments/assets/2ded1555-622d-465a-9c1d-d10d5df12aa0" />
